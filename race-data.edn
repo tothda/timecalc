@@ -1,0 +1,73 @@
+[{:id :kriszti-rio
+  :title "Kriszti - Rio"
+  :year 2016
+  :distance :marathon
+  :splits [0   0   0   0
+           5   0  19  17
+           10  0  38   9
+           15  0  57  18
+           20  1  16   5
+           25  1  35  22
+           30  1  54  21
+           35  2  14  10
+           40  2  33  55
+           42.195 2 42 03
+           ]}
+
+ {:id :zsofi-rio
+  :title "Zsófi - Rio"
+  :year 2016
+  :distance :marathon
+  :splits [0   0   0   0
+           5   0  18  46
+           10  0  37  14
+           15  0  56  10
+           20  1  14  51
+           25  1  33  46
+           30  1  52  22
+           35  2  11  16
+           40  2  30  48
+           42.195 2 39 04]}
+
+ {:id :szabo-tunde-rio
+  :title "Szabó Tünde - Rió (2016)"
+  :year 2016
+  :distance :marathon
+  :splits [0 0 0 0
+           5 0 19 16
+           10 0 38 36
+           15 0 57 53
+           20 1 16 47
+           25 1 36 21
+           30 1 55 38
+           35 2 14 44
+           40 2 36 57
+           42.195 2 45 37]}
+
+ {:id :rotterdam
+  :title "Kriszti Rotterdam"
+  :year 2015
+  :distance :marathon
+  :splits [0  10 0 2
+           5  10 18 1
+           10 10 35 58
+           15 10 54 20
+           20 11 12 33
+           25 11 30 38
+           31 11 53 04
+           33 12 0 32
+           35 12 8 24
+           37 12 16 22
+           40 12 28 31
+           42.195 12 36 58]}
+
+ {:id :amszterdam
+  :label "Kriszti Amszterdam"
+  :year 2016
+  :distance :half-marathon
+  :splits [0 0 0 0
+           5 0 16 59
+           10 0 34 18
+           15 0 51 40
+           21.097 1 13 23]}
+ ]
